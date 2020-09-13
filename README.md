@@ -1,4 +1,4 @@
-# LaravelProject
+# Laravel6Project
 
 .env file in
 
